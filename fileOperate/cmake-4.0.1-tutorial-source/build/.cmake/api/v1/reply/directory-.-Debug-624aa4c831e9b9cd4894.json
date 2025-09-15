@@ -1,0 +1,109 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 53,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 54,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 97,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 118,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "bin",
+			"paths" : 
+			[
+				"Tutoriald"
+			],
+			"targetId" : "Tutorial::@6890427a1f51a3e7e1df",
+			"targetIndex" : 3,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "include",
+			"paths" : 
+			[
+				"/home/bai-yu/c++learn/fileOperate/cmake-4.0.1-tutorial-source/build/TutorialConfig.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "Unspecified",
+			"destination" : "lib/cmake/MathFunctions",
+			"exportName" : "MathFunctionsTargets",
+			"exportTargets" : 
+			[
+				{
+					"id" : "MathFunctions::@742f1924b0b2e2878db6",
+					"index" : 1
+				},
+				{
+					"id" : "tutorial_compiler_flags::@6890427a1f51a3e7e1df",
+					"index" : 0
+				},
+				{
+					"id" : "SqrtLibrary::@742f1924b0b2e2878db6",
+					"index" : 2
+				}
+			],
+			"paths" : 
+			[
+				"CMakeFiles/Export/4fde951d665757443c009fdbb521b5ba/MathFunctionsTargets.cmake"
+			],
+			"type" : "export"
+		},
+		{
+			"backtrace" : 4,
+			"component" : "Unspecified",
+			"destination" : "lib/cmake/MathFunctions",
+			"paths" : 
+			[
+				"/home/bai-yu/c++learn/fileOperate/cmake-4.0.1-tutorial-source/build/MathFunctionsConfig.cmake"
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	}
+}

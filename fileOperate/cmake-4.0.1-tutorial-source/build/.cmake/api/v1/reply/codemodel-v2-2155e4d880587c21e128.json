@@ -1,0 +1,108 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-624aa4c831e9b9cd4894.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"build" : "MathFunctions",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-MathFunctions-Debug-24825b92c7756e9e7e7a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "MathFunctions",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "Tutorial",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "MakeTable::@742f1924b0b2e2878db6",
+					"jsonFile" : "target-MakeTable-Debug-33f34121e673b89e46ab.json",
+					"name" : "MakeTable",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "MathFunctions::@742f1924b0b2e2878db6",
+					"jsonFile" : "target-MathFunctions-Debug-638f11e5e3a1a464986b.json",
+					"name" : "MathFunctions",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "SqrtLibrary::@742f1924b0b2e2878db6",
+					"jsonFile" : "target-SqrtLibrary-Debug-93f343180c38a85d5338.json",
+					"name" : "SqrtLibrary",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Tutorial::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Tutorial-Debug-7be3b1352b34323ae7f8.json",
+					"name" : "Tutorial",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/bai-yu/c++learn/fileOperate/cmake-4.0.1-tutorial-source/build",
+		"source" : "/home/bai-yu/c++learn/fileOperate/cmake-4.0.1-tutorial-source/Complete"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

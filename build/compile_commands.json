@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/bai-yu/c++learn/build",
+  "command": "/usr/bin/c++  -I/home/bai-yu/c++learn/Thread/include -g -std=c++11 -o CMakeFiles/thread.dir/src/atomic.cpp.o -c /home/bai-yu/c++learn/Thread/src/atomic.cpp",
+  "file": "/home/bai-yu/c++learn/Thread/src/atomic.cpp"
+}
+]

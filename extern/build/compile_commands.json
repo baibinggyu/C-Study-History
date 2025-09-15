@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/bai-yu/c++learn/extern/build",
+  "command": "/usr/bin/c++  -I/home/bai-yu/c++learn/extern/include -g -std=c++11 -o CMakeFiles/extern.dir/src/ex.cpp.o -c /home/bai-yu/c++learn/extern/src/ex.cpp",
+  "file": "/home/bai-yu/c++learn/extern/src/ex.cpp"
+},
+{
+  "directory": "/home/bai-yu/c++learn/extern/build",
+  "command": "/usr/bin/c++  -I/home/bai-yu/c++learn/extern/include -g -std=c++11 -o CMakeFiles/extern.dir/src/test.cpp.o -c /home/bai-yu/c++learn/extern/src/test.cpp",
+  "file": "/home/bai-yu/c++learn/extern/src/test.cpp"
+}
+]

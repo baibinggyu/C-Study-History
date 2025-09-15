@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/main.dir/src/main.cpp.o -o main   -L/home/bai-yu/c++learn/rbtree/src  -Wl,-rpath,/home/bai-yu/c++learn/rbtree/src RBTree/libRBTree.a 

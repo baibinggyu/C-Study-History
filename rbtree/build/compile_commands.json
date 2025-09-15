@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/bai-yu/c++learn/rbtree/build",
+  "command": "/usr/bin/c++  -I/home/bai-yu/c++learn/rbtree/include -I/home/bai-yu/c++learn/rbtree/RBTree -g -std=gnu++11 -o CMakeFiles/main.dir/src/main.cpp.o -c /home/bai-yu/c++learn/rbtree/src/main.cpp",
+  "file": "/home/bai-yu/c++learn/rbtree/src/main.cpp"
+},
+{
+  "directory": "/home/bai-yu/c++learn/rbtree/build/RBTree",
+  "command": "/usr/bin/c++   -g -std=gnu++11 -o CMakeFiles/RBTree.dir/RBTree.cpp.o -c /home/bai-yu/c++learn/rbtree/RBTree/RBTree.cpp",
+  "file": "/home/bai-yu/c++learn/rbtree/RBTree/RBTree.cpp"
+}
+]

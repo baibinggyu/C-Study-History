@@ -1,0 +1,7 @@
+/home/bai-yu/c++learn/fileOperate/cmake-4.0.1-tutorial-source/Step4/build/CMakeFiles/Tutorial.dir
+/home/bai-yu/c++learn/fileOperate/cmake-4.0.1-tutorial-source/Step4/build/CMakeFiles/edit_cache.dir
+/home/bai-yu/c++learn/fileOperate/cmake-4.0.1-tutorial-source/Step4/build/CMakeFiles/rebuild_cache.dir
+/home/bai-yu/c++learn/fileOperate/cmake-4.0.1-tutorial-source/Step4/build/MathFunctions/CMakeFiles/MathFunctions.dir
+/home/bai-yu/c++learn/fileOperate/cmake-4.0.1-tutorial-source/Step4/build/MathFunctions/CMakeFiles/SqrtLibrary.dir
+/home/bai-yu/c++learn/fileOperate/cmake-4.0.1-tutorial-source/Step4/build/MathFunctions/CMakeFiles/edit_cache.dir
+/home/bai-yu/c++learn/fileOperate/cmake-4.0.1-tutorial-source/Step4/build/MathFunctions/CMakeFiles/rebuild_cache.dir

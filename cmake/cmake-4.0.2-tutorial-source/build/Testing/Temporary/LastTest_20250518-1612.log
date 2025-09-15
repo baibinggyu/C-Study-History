@@ -1,0 +1,21 @@
+Start testing: May 19 00:17 CST
+----------------------------------------------------------
+2/10 Testing: Usage
+2/10 Test: Usage
+Command: "/home/bai-yu/c++learn/cmake/cmake-4.0.2-tutorial-source/build/Tutorial"
+Directory: /home/bai-yu/c++learn/cmake/cmake-4.0.2-tutorial-source/build
+"Usage" start time: May 19 00:17 CST
+Output:
+----------------------------------------------------------
+/home/bai-yu/c++learn/cmake/cmake-4.0.2-tutorial-source/build/Tutorial Version 1.0
+Usage: /home/bai-yu/c++learn/cmake/cmake-4.0.2-tutorial-source/build/Tutorial number
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Pass Reason:
+Required regular expression found. Regex=[Usage.*number]
+"Usage" end time: May 19 00:17 CST
+"Usage" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: May 19 00:17 CST

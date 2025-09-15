@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/ptr.dir/src/weak_ptr.cpp.o -o ptr  Cat/libCat.a 

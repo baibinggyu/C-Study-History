@@ -1,0 +1,6 @@
+/home/bai-yu/c++learn/fileOperate/cmake-4.0.1-tutorial-source/Step2/MathFunctions/CMakeFiles/tutorial.dir
+/home/bai-yu/c++learn/fileOperate/cmake-4.0.1-tutorial-source/Step2/MathFunctions/CMakeFiles/edit_cache.dir
+/home/bai-yu/c++learn/fileOperate/cmake-4.0.1-tutorial-source/Step2/MathFunctions/CMakeFiles/rebuild_cache.dir
+/home/bai-yu/c++learn/fileOperate/cmake-4.0.1-tutorial-source/Step2/MathFunctions/MathFunctions/CMakeFiles/MathFunctions.dir
+/home/bai-yu/c++learn/fileOperate/cmake-4.0.1-tutorial-source/Step2/MathFunctions/MathFunctions/CMakeFiles/edit_cache.dir
+/home/bai-yu/c++learn/fileOperate/cmake-4.0.1-tutorial-source/Step2/MathFunctions/MathFunctions/CMakeFiles/rebuild_cache.dir

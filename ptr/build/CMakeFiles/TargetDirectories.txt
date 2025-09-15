@@ -1,0 +1,6 @@
+/home/bai-yu/c++learn/ptr/build/CMakeFiles/ptr.dir
+/home/bai-yu/c++learn/ptr/build/CMakeFiles/edit_cache.dir
+/home/bai-yu/c++learn/ptr/build/CMakeFiles/rebuild_cache.dir
+/home/bai-yu/c++learn/ptr/build/Cat/CMakeFiles/Cat.dir
+/home/bai-yu/c++learn/ptr/build/Cat/CMakeFiles/edit_cache.dir
+/home/bai-yu/c++learn/ptr/build/Cat/CMakeFiles/rebuild_cache.dir

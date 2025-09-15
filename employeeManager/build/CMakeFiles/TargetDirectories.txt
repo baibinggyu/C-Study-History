@@ -1,0 +1,3 @@
+/home/bai-yu/c++learn/employeeManager/build/CMakeFiles/employee.dir
+/home/bai-yu/c++learn/employeeManager/build/CMakeFiles/edit_cache.dir
+/home/bai-yu/c++learn/employeeManager/build/CMakeFiles/rebuild_cache.dir

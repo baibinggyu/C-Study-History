@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/extern.dir/src/ex.cpp.o CMakeFiles/extern.dir/src/test.cpp.o -o extern 

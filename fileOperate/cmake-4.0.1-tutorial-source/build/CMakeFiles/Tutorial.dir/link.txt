@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Tutorial.dir/tutorial.cxx.o -o Tutoriald  -Wl,-rpath,/home/bai-yu/c++learn/fileOperate/cmake-4.0.1-tutorial-source/build: libMathFunctionsd.so.1.0.0 

@@ -52,7 +52,28 @@
         "list": "cpp",
         "fstream": "cpp",
         "cstring": "cpp",
-        "cinttypes": "cpp"
+        "cinttypes": "cpp",
+        "strstream": "cpp",
+        "bitset": "cpp",
+        "chrono": "cpp",
+        "complex": "cpp",
+        "condition_variable": "cpp",
+        "map": "cpp",
+        "set": "cpp",
+        "unordered_set": "cpp",
+        "optional": "cpp",
+        "ratio": "cpp",
+        "future": "cpp",
+        "iomanip": "cpp",
+        "mutex": "cpp",
+        "semaphore": "cpp",
+        "stop_token": "cpp",
+        "thread": "cpp",
+        "cfenv": "cpp",
+        "typeindex": "cpp",
+        "valarray": "cpp",
+        "variant": "cpp"
     },
-    "cmake.sourceDirectory": "/home/bai-yu/c++learn/Thread"
+    "cmake.sourceDirectory": "/home/bai-yu/c++learn/Thread",
+    "C_Cpp.default.compilerPath": "/usr/bin/g++"
 }
